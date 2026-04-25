@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+
+*.zip
+*.rar
+*.7z
+*.pkl
+*.joblib
+*.parquet
+*.csv
+
+models/
+dataset_raw/
+dataset_processed/
